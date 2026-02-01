@@ -116,9 +116,9 @@ This reduces friction and increases conversions.
 
 ## Screenshots
 
-![Homepage / Hero CTA](Cleanoutandup%201.png)
-![Homepage / Hero CTA](Cleanoutandup%202.png)
-![Homepage / Hero CTA](Cleanoutandup%203.png)
+![Homepage](Cleanoutandup%201.png)
+![Homepage](Cleanoutandup%202.png)
+![Homepage](Cleanoutandup%203.png)
 
 ---
 
